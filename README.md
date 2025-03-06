@@ -2,7 +2,7 @@
 
 # Real time animaton
 
-This repository contains the models and checkpoints for our project [First Order Motion Model for Image Animation] by Maniteja Ladi, Teja Vineeth Reddy and Deepak Rajput
+This repository contains the models and checkpoints for our project [First Order Motion Model for Image Animation] by Naga Praneeth Cheela, Maniteja Ladi, Teja Vineeth Reddy and Deepak Rajput
 
 [Hugging Face Spaces](https://huggingface.co/spaces/abhishek/first-order-motion-model)
 
